@@ -1,0 +1,11 @@
+# TODO add the python package you need 
+jetson-stats
+librosa
+numpy==1.26.1
+opencv-python
+orjson
+pydantic==1.10
+pyserial
+scikit-learn
+scipy
+tqdm

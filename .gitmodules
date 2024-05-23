@@ -1,0 +1,13 @@
+[submodule "rplidar_src/rplidar_ros"]
+	path = rplidar_src/rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros
+[submodule "rplidar_src/slam_toolbox"]
+	path = rplidar_src/slam_toolbox
+	url = https://github.com/SteveMacenski/slam_toolbox
+[submodule "ydlidar_src/YDLidar-SDK"]
+	path = ydlidar_src/YDLidar-SDK
+	url = https://github.com/YDLIDAR/YDLidar-SDK
+[submodule "ydlidar_src/ydlidar_ros2_ws/src/ydlidar_ros2_driver"]
+	path = ydlidar_src/ydlidar_ros2_ws/src/ydlidar_ros2_driver
+	url = https://github.com/YDLIDAR/ydlidar_ros2_driver
+	branch = humble
